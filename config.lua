@@ -1,5 +1,5 @@
 Config = {}
-
+--GameSlaveSA - Removed blank line underneath line 59
 Config.MinimalDoctors = 2
 Config.WipeInventoryOnRespawn = true
 
@@ -57,7 +57,6 @@ Config.AuthorizedVehicles = {
 	-- Grade 1
 	[1] = {
 		["ambulance"] = "Ambulance",
-
 	},
 	-- Grade 2
 	[2] = {
